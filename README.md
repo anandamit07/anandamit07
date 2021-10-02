@@ -34,9 +34,9 @@
 
 <hr>
 
-#### ✍ My Work
+#### Github Analytics
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandamit07&show_icons=true&theme=radical" alt="GitHub README Stats" />
-
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandamit07&layout=compact&hide=html,jupyter%20notebook,vhdl"/>
 <br/>
  
 

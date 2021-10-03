@@ -6,7 +6,7 @@
   
  ### Hi there 👋
 
-- 🔭 I’m currently working on Hackotber-2021
+- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on various Open Source Projects
 - 💬 Ask me about any tech related stuff

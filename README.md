@@ -2,7 +2,7 @@
 ### About Me:  
 <p > Hi, I am Amit Anand, a 3rd-year undergraduate pursuing my bachelor's from Indian Institute of Technology, Indore. </p>
 <p > I am a competitive programmer, 4★ on Codechef(1897) and Specialist on Codeforces(1598).</p>
-<p > I love in Problem Solving and Web Development.</p>
+<p > I love Problem Solving and Web Development.</p>
   
  ### Hi there 👋
 
